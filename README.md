@@ -1,1 +1,2 @@
 # week-7-Firebase
+I used the employee tracker as a reference for this project. The stylesheet is very similar ,so I only changed a few things and followed the guidelines of the employee tracker. The concept of javascript is also very similar to the employee tracker; therefore, I followed the guidelines and changed var names and created a new math function that calculates the next train time and minutes. I had issues with css and had to do inline because the reference link was not working. 
